@@ -18,19 +18,19 @@ Open the downloaded file on an Android phone and approve installation from this 
 	<tr>
 		<td><img src="Screenshots/Home.png" width="180" alt="Dukaan360 home dashboard" /></td>
 		<td><img src="Screenshots/Billing.png" width="180" alt="Billing screen" /></td>
-		<td><img src="Screenshots/Inventory.png" width="180" alt="Inventory screen" /></td>
-		<td><img src="Screenshots/Business%20Insight.png" width="180" alt="Business insights screen" /></td>
-	</tr>
-	<tr>
-		<td><img src="Screenshots/Customer%20Record.png" width="180" alt="Customer record screen" /></td>
-		<td><img src="Screenshots/Merchant%20network.png" width="180" alt="Merchant network screen" /></td>
 		<td><img src="Screenshots/Barcode%20scan.png" width="180" alt="Barcode scanning screen" /></td>
 		<td><img src="Screenshots/Pay%20bill.png" width="180" alt="Pay bill screen" /></td>
 	</tr>
 	<tr>
 		<td><img src="Screenshots/Paid%20bill%20confirmation.png" width="180" alt="Paid bill confirmation screen" /></td>
+		<td><img src="Screenshots/Inventory.png" width="180" alt="Inventory screen" /></td>
 		<td><img src="Screenshots/Pay%20later.png" width="180" alt="Pay later screen" /></td>
 		<td><img src="Screenshots/Pay%20later%20confirmation.png" width="180" alt="Pay later confirmation screen" /></td>
+	</tr>
+	<tr>
+		<td><img src="Screenshots/Customer%20Record.png" width="180" alt="Customer record screen" /></td>
+		<td><img src="Screenshots/Business%20Insight.png" width="180" alt="Business insights screen" /></td>
+		<td><img src="Screenshots/Merchant%20network.png" width="180" alt="Merchant network screen" /></td>
 		<td></td>
 	</tr>
 </table>
