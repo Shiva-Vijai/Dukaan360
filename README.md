@@ -8,7 +8,7 @@ Dukaan360 is an Android merchant operations app for fast billing, inventory cont
 
 Download the standalone Android APK directly from this repository:
 
-[Download Dukaan360 APK](Dukaan360.apk)
+[Download Dukaan360 APK](https://github.com/Shiva-Vijai/Dukaan360/raw/refs/heads/main/Dukaan360.apk)
 
 Open the downloaded file on an Android phone and approve installation from this source when Android requests permission. This build connects to the deployed API at `https://dukaan360-backend-service.onrender.com` and does not require Expo Go.
 
