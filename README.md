@@ -4,6 +4,14 @@
 
 Dukaan360 is an Android merchant operations app for fast billing, inventory control, stock intelligence, and local business networking. It brings the daily workflow of a small retailer into one focused interface: scan a product, create a bill, confirm payment, update stock, and act on useful recommendations.
 
+## Install the Android app
+
+Download the standalone Android APK directly from this repository:
+
+[Download Dukaan360 APK](Dukaan360.apk)
+
+Open the downloaded file on an Android phone and approve installation from this source when Android requests permission. This build connects to the deployed API at `https://dukaan360-backend-service.onrender.com` and does not require Expo Go.
+
 ## Capabilities
 
 - **Billing:** Search the catalogue or scan a barcode to build a cart and create a sale.

@@ -1,1 +1,29 @@
-{"expo":{"name":"Dukaan360","slug":"dukaan360","version":"1.0.0","orientation":"portrait","userInterfaceStyle":"light","plugins":[["expo-camera",{"cameraPermission":"Allow Dukaan360 to scan product barcodes."}]],"android":{"package":"com.dukaan360.prototype"}}}
+{
+  "expo": {
+    "name": "Dukaan360",
+    "slug": "dukaan360",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "plugins": [
+      [
+        "expo-camera",
+        {
+          "cameraPermission": "Allow Dukaan360 to scan product barcodes."
+        }
+      ]
+    ],
+    "android": {
+      "package": "com.dukaan360.prototype",
+      "permissions": [
+        "android.permission.CAMERA",
+        "android.permission.RECORD_AUDIO"
+      ]
+    },
+    "extra": {
+      "eas": {
+        "projectId": "4d2e1710-992f-4a28-b619-53920b5197d1"
+      }
+    }
+  }
+}
