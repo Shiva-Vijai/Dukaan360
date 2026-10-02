@@ -12,6 +12,29 @@ Download the standalone Android APK directly from this repository:
 
 Open the downloaded file on an Android phone and approve installation from this source when Android requests permission. This build connects to the deployed API at `https://dukaan360-backend-service.onrender.com` and does not require Expo Go.
 
+## Product screens
+
+<table>
+	<tr>
+		<td><img src="Screenshots/Home.png" width="180" alt="Dukaan360 home dashboard" /></td>
+		<td><img src="Screenshots/Billing.png" width="180" alt="Billing screen" /></td>
+		<td><img src="Screenshots/Inventory.png" width="180" alt="Inventory screen" /></td>
+		<td><img src="Screenshots/Business%20Insight.png" width="180" alt="Business insights screen" /></td>
+	</tr>
+	<tr>
+		<td><img src="Screenshots/Customer%20Record.png" width="180" alt="Customer record screen" /></td>
+		<td><img src="Screenshots/Merchant%20network.png" width="180" alt="Merchant network screen" /></td>
+		<td><img src="Screenshots/Barcode%20scan.png" width="180" alt="Barcode scanning screen" /></td>
+		<td><img src="Screenshots/Pay%20bill.png" width="180" alt="Pay bill screen" /></td>
+	</tr>
+	<tr>
+		<td><img src="Screenshots/Paid%20bill%20confirmation.png" width="180" alt="Paid bill confirmation screen" /></td>
+		<td><img src="Screenshots/Pay%20later.png" width="180" alt="Pay later screen" /></td>
+		<td><img src="Screenshots/Pay%20later%20confirmation.png" width="180" alt="Pay later confirmation screen" /></td>
+		<td></td>
+	</tr>
+</table>
+
 ## Capabilities
 
 - **Billing:** Search the catalogue or scan a barcode to build a cart and create a sale.
